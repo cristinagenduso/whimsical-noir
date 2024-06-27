@@ -1,0 +1,22 @@
+{
+	"name": "whimsical-noir",
+	"author": "Cristina Genduso",
+	"displayName": "whimsical noir",
+	"description": "A dark theme with a whimsical twist, featuring quirky highlights that keep your code fun.",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.90.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "whimsical noir",
+				"uiTheme": "hc-black",
+				"path": "./themes/whimsical noir-color-theme.json"
+			}
+		]
+	}
+}
